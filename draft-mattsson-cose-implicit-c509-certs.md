@@ -23,10 +23,21 @@ venue:
   latest: "https://emanjon.github.io/implicit-c509-certificates/draft-mattsson-cose-implicit-c509-certs.html"
 
 author:
- -
-    fullname: "John Preuß Mattsson"
-    organization: Your Organization Here
-    email: "john.mattsson@ericsson.com"
+-
+    ins: J. Preuß Mattsson
+    name: John Preuß Mattsson
+    org: Ericsson
+    email: john.mattsson@ericsson.com
+-
+    ins: G. Selander
+    name: Göran Selander
+    org: Ericsson
+    email: goran.selander@ericsson.com
+-
+    ins: J. Höglund
+    name: Joel Höglund
+    org: RISE
+    email: joel.hoglund@ri.se
 
 normative:
 

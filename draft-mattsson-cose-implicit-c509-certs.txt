@@ -4,8 +4,9 @@
 
 CBOR Object Signing and Encryption                     J. Preuß Mattsson
 Internet-Draft                                               G. Selander
-Intended status: Standards Track                                Ericsson
-Expires: 10 September 2024                                    J. Höglund
+Intended status: Standards Track                           E. Thormarker
+Expires: 10 September 2024                                      Ericsson
+                                                              J. Höglund
                                                                     RISE
                                                             9 March 2024
 
@@ -121,6 +122,11 @@ Authors' Addresses
    Göran Selander
    Ericsson
    Email: goran.selander@ericsson.com
+
+
+   Erik Thormarker
+   Ericsson
+   Email: erik.thormarker@ericsson.com
 
 
    Joel Höglund

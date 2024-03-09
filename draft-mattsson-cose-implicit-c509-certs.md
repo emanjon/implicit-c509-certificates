@@ -34,6 +34,11 @@ author:
     org: Ericsson
     email: goran.selander@ericsson.com
 -
+    ins: E. Thormarker
+    name: Erik Thormarker
+    org: Ericsson
+    email: erik.thormarker@ericsson.com
+-
     ins: J. Höglund
     name: Joel Höglund
     org: RISE
